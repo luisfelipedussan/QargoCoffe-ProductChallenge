@@ -1,6 +1,6 @@
 [submodule "frontend"]
-	path = frontend
-	url = https://x-access-token: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@github.com/luisfelipedussan/Product-Frontend.git
+    path = frontend
+    url = https://github.com/luisfelipedussan/Product-Frontend.git
 [submodule "backend"]
-	path = backend
-	url = https://x-access-token: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@github.com/luisfelipedussan/Productbackend.git
+    path = backend
+    url = https://github.com/luisfelipedussan/Productbackend.git
