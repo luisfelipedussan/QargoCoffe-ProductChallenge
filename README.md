@@ -61,7 +61,7 @@ A full-stack web application for product management built with Laravel, React, a
 1. Clone the repository with submodules:
 
 ```bash
-git clone --recursive https://github.com/yourusername/product-app-meta.git
+git clone --recursive https://github.com/luisfelipedussan/product-app-meta.git
 cd product-app-meta
 ```
 
