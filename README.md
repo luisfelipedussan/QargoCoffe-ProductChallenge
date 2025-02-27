@@ -102,34 +102,8 @@ docker-compose exec frontend npm install
 
 ### Default Users
 - Admin: admin@example.com / password
-- User: user@example.com / password
+- User: test@example.com / password
 
-### API Documentation
-- Swagger UI: http://localhost:8000/api/documentation
-
-## Code Structure
-
-### Backend Structure
-
-backend/
-├── app/
-│ ├── Http/Controllers/ # Request handlers
-│ ├── Models/ # Eloquent models
-│ └── Services/ # Business logic
-├── database/
-│ ├── migrations/ # Database structure
-│ └── seeders/ # Sample data
-└── routes/
-└── api.php # API endpoints
-
-### Frontend Structure
-
-frontend/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── context/ # React Context providers
-│ ├── pages/ # Route components
-│ └── services/ # API integration
 
 ## Security Features
 
