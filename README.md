@@ -1,14 +1,12 @@
-# React + Vite
+# QARGO COFFEE FULLSTACK PROJECT 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Video DEMO
 
-Currently, two official plugins are available:
+You can watch a demo in the following video:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/L_iTivTDBXg)
 
-
-# Product Management Application
+# Application
 
 A full-stack web application for product management built with Laravel, React, and Docker.
 
@@ -63,7 +61,7 @@ A full-stack web application for product management built with Laravel, React, a
 1. Clone the repository with submodules:
 
 ```bash
-git clone --recursive https://github.com/yourusername/product-app-meta.git
+git clone --recursive https://github.com/luisfelipedussan/product-app-meta.git
 cd product-app-meta
 ```
 
@@ -104,34 +102,8 @@ docker-compose exec frontend npm install
 
 ### Default Users
 - Admin: admin@example.com / password
-- User: user@example.com / password
+- User: test@example.com / password
 
-### API Documentation
-- Swagger UI: http://localhost:8000/api/documentation
-
-## Code Structure
-
-### Backend Structure
-
-backend/
-├── app/
-│ ├── Http/Controllers/ # Request handlers
-│ ├── Models/ # Eloquent models
-│ └── Services/ # Business logic
-├── database/
-│ ├── migrations/ # Database structure
-│ └── seeders/ # Sample data
-└── routes/
-└── api.php # API endpoints
-
-### Frontend Structure
-
-frontend/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── context/ # React Context providers
-│ ├── pages/ # Route components
-│ └── services/ # API integration
 
 ## Security Features
 
