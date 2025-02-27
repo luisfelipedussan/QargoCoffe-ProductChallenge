@@ -4,7 +4,7 @@
 
 You can watch a demo in the following video:
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/Bxa8OEMSIUI)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/L_iTivTDBXg)
 
 # Application
 
